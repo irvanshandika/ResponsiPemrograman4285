@@ -1,0 +1,15 @@
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.exe
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.deps.json
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.runtimeconfig.json
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.dll
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.pdb
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.csproj.AssemblyReference.cache
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.AssemblyInfoInputs.cache
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.AssemblyInfo.cs
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.dll
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\refint\ProjectPenjualan.dll
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.pdb
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.genruntimeconfig.cache
+C:\Users\irvan\RiderProjects\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ref\ProjectPenjualan.dll
